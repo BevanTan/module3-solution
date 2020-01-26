@@ -1,16 +1,14 @@
 /*HEADER NAV*/
-body{
-  background-color: yellow;
-}
+
 
 .container{
   margin-left: 0px;
   padding-left: 0px;
 }
 #header-nav{
-  background-color: blue;
+  background-color: grey;
   border-radius: 0 ;
-  border: 5px solid #000;
+  border: none;
 }
 
 .navbar-brand{
