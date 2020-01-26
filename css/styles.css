@@ -1,6 +1,6 @@
 /*HEADER NAV*/
 body{
-  background-color: white;
+  background-color: yellow;
 }
 
 .container{
@@ -8,9 +8,9 @@ body{
   padding-left: 0px;
 }
 #header-nav{
-  background-color: grey;
+  background-color: blue;
   border-radius: 0 ;
-  border: none;
+  border: 5px solid #000;
 }
 
 .navbar-brand{
@@ -34,11 +34,11 @@ body{
 #nav-list a{
   border: 2px solid black;
   color: white;
-  background-color: black;
+  background-color: grey;
 }
 
 #nav-list a:hover {
-  background: grey;
+  background: black;
 }
 
 .navbar-header .navbar-toggle {
