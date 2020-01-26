@@ -5,13 +5,13 @@
 }
 
 h1 {
-	font-family: Brushstroke, fantasy;
+	font-family: Comic Sans Ms;
 	color: black;
 }
 
 body {
 
-	background-color: white;
+  background-color: white;
   font-size: 16px;
   color: black;
 
@@ -20,6 +20,10 @@ body {
 p {
 	padding: 10px;
 	margin: 0;
+}
+
+.h3 {
+   text-align: center;
 }
 
 .container {
@@ -110,8 +114,8 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: black;
-  color: #FFFFFF;
+  background-color: grey;
+  color: black;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
