@@ -6,7 +6,7 @@
 }
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
-  color: #035524;;
+  color: #035524;
   font-size: 1.5em;
   font-weight: bold;
   text-shadow: 1px 1px 1px lightgreen;
@@ -45,8 +45,8 @@ font-family: 'Lora', serif;
   font-weight: bold;
 }
 .menu-item-title{
-	text-align: center;
-	font-family: 'Oxygen', serif;
+  text-align: center;
+  font-family: 'Oxygen', serif;
   color: red;
   font-size: 1.7em;
   font-weight: bold italic;
@@ -54,13 +54,13 @@ font-family: 'Lora', serif;
 }
 .menu-item-details{
 text-align: justify;
-	font-family: 'Lora', serif;
-  color: red;
-  font-size: 1.2em;
-  font-weight: italic;
+font-family: 'Lora', serif;
+ color: red;
+ font-size: 1.2em;
+ font-weight: italic;
 }
 .menu-item-description{
-	background-color: lightgreen;
+background-color: lightgreen;
 }
 .row{
 margin-right: 0;
