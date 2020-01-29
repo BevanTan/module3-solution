@@ -1,6 +1,6 @@
 body {
   font-size: 16px;
-  color: #fff;
+  color: black;
   background-color: white;
   font-family: 'Oxygen', sans-serif;
 }
@@ -10,6 +10,28 @@ body {
   background-color: grey;
   border-radius: 0;
   border: 0;
+}
+
+#chicken {
+color: black;
+font-family: 'Oxygen', sans-serif;
+text-align: center;
+font-weight: bold;
+}
+
+
+#beef {
+color: black;
+font-family: 'Oxygen', sans-serif;
+text-align: center;
+font-weight: bold;
+}
+
+#sushi {
+color: black;
+font-family: 'Oxygen', sans-serif;
+text-align: center;
+font-weight: bold;
 }
 
 
@@ -45,7 +67,7 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: black;
   text-align: center;
 }
 #nav-list a:hover {
@@ -55,7 +77,16 @@ body {
   font-size: 1.8em;
 }
 
-
+p {
+ color: black;
+ background-color: grey;
+ font-family:'Oxygen', sans-serif;
+ padding-left: 15px;
+ padding-right: 15px;
+ padding-top: 15px;
+ padding-bottom: 15px;
+}
+   
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #61122f;
 }
